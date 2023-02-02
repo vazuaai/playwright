@@ -4,19 +4,19 @@ This test automation project is designed to provide comprehensive end-to-end tes
 
 ## Features
 
-* End-to-end (E2E) testing
 * Page Object Pattern structure
+* End-to-end (E2E) testing
 * Advanced visual testing with snapshots
 * API testing
 * Automatic test execution through Jenkins
 
-### E2E Testing
-
-The E2E tests cover all aspects of the application functionality and are designed to mimic real-world user scenarios. These tests cover a wide range of scenarios, ensuring that the application works as intended for all users.
-
 ### Page Object Pattern Structure
 
 The Page Object Pattern structure ensures that the tests are maintainable and reusable. This structure allows for easy updates and maintenance of the tests without having to update every test case individually.
+
+### E2E Testing
+
+The E2E tests cover all aspects of the application functionality and are designed to mimic real-world user scenarios. These tests cover a wide range of scenarios, ensuring that the application works as intended for all users.
 
 ### Advanced Visual Testing
 
