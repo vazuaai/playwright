@@ -1,4 +1,4 @@
-# Playwright Test Automation Project
+# :performing_arts: Playwright Test Automation Project
 
 This test automation project is designed to provide comprehensive end-to-end testing for The Free Online Bank Web site is published by Micro Focus Fortify[^1]. The project follows the Page Object Pattern structure to ensure maintainable and reusable test code.
 
