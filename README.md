@@ -2,6 +2,8 @@
 
 This test automation project is designed to provide comprehensive end-to-end testing for The Free Online Bank Web site is published by Micro Focus Fortify[^1]. The project follows the Page Object Pattern structure to ensure maintainable and reusable test code.
 
+✨ **There is a step by step implementation document:** https://github.com/vazuaai/testautomation-playwright/blob/main/StepByStep_Implementation_HU.pdf
+
 ## Features
 
 * Page Object Pattern structure
