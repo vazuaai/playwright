@@ -34,4 +34,19 @@ The test cases can be run automatically from Jenkins, providing continuous integ
 
 This test automation project provides comprehensive testing, including E2E tests, advanced visual testing, and API tests. The Page Object Pattern structure ensures maintainable and reusable test code, while automatic test execution through Jenkins makes it easy to integrate testing into the development workflow.
 
+# 👨‍🔧 Try it yourself
+
+ℹ️ _Run these scripts from the project library (e.g. C:\repos\playwright-cucumber>)_
+
+**Run the tests from terminal:** 
+```shell
+npm run tests:e2e
+```
+You can use other scripts as well as described in .package.json
+
+**Generate an HTML report from the results:**
+```shell
+npm run report
+```
+
 [^1]: The Free Online Bank Web site is published by Micro Focus Fortify, this site is not a real banking site and any similarities to third party products and/or Web sites are purely coincidental. This site is provided "as is" without warranty of any kind, either express or implied.
