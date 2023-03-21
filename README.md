@@ -36,7 +36,7 @@ This test automation project provides comprehensive testing, including E2E tests
 
 # 👨‍🔧 Try it yourself
 
-ℹ️ _Clone or download the project and run these scripts from the project library (e.g. C:\repos\playwright-cucumber>)_
+ℹ️ _Clone or download the project and run these scripts from the project library (e.g. C:\repos\playwright>)_
 
 **Run the tests from terminal (e.g.):** 
 ```shell
